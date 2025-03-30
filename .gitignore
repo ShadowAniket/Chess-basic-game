@@ -1,0 +1,9 @@
+# Ignore Python cache files and directories
+__pycache__/
+*.py[cod]
+
+# Ignore IDE configuration directories (e.g., PyCharm or IntelliJ IDEA)
+.idea/
+
+# Ignore the audio directory inside assets
+assets/audio/
